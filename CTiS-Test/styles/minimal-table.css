@@ -4,8 +4,10 @@
 font-family: sans-serif;
    font-family: Georgia, "Times New Roman",
           Times, serif;
-		  color: black;
-    background-color: #E8E8E8 }
+     margin: 0;
+	  background:(../images/download.jfif);
+	  color: White;
+} 
 address {
   margin-top: 1em;
   padding-top: 1em;
