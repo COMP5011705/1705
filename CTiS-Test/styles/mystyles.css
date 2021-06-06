@@ -1,0 +1,13 @@
+  body {
+     margin: 0;
+  	font-family: Sadness;
+	 color: White;
+    	  background-image:url(../images/Night_sky.jpg);
+background-size: cover; 
+padding: 0; 
+        overflow: hidden
+}
+
+	h1 {
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
