@@ -1,13 +1,11 @@
-  body {
-
-
-font-family: sans-serif;
-   font-family: Georgia, "Times New Roman",
-          Times, serif;
-     margin: 0;
-	  background:(../images/download.jfif);
-	  color: White;
-} 
+body {
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+   background:url(../images/black.jpg);
+	color:white;
+	background-size: cover; 
+padding: 0; 
+}
 address {
   margin-top: 1em;
   padding-top: 1em;
