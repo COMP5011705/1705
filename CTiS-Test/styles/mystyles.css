@@ -1,7 +1,11 @@
   body {
      margin: 0;
   	font-family: Calibri, sans-serif;
-    	background-color: #E8E8E8 }
+    	  background-image:url(../images/Night_sky.jpg);
+background-size: cover; 
+padding: 0; 
+        overflow: hidden
+}
 
 	h1 {
     font-family: Helvetica, Geneva, Arial,
