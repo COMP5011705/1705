@@ -1,6 +1,6 @@
   body {
      margin: 0;
-	  background:(../images/black.jpg);
+	  background:url(../images/black.jpg);
 	  color: White;
 }
 
