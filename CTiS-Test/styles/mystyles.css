@@ -1,7 +1,7 @@
   body {
      margin: 0;
   	font-family: Calibri, sans-serif;
-	  colour: White;
+	  font-colour: White;
     	  background-image:url(../images/Night_sky.jpg);
 background-size: cover; 
 padding: 0; 
